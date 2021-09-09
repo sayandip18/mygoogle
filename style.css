@@ -130,11 +130,11 @@ header {
     outline: none;
 }
 
-.search-btns {
+.search-buttons {
     margin-top: 20px;
 }
 
-.search-btns button {
+.search-buttons button {
     height: 40px;
     font-size: 14px;
     border: none;
@@ -144,15 +144,15 @@ header {
     background-color: #F2F3F4;
 }
 
-.search-btns button:hover {
+.search-buttons button:hover {
     border: 1px solid lightgray;
 }
 
-.google-search-btn {
+.google-search-button {
     width: 120px;
 }
 
-.lucky-search-btn {
+.lucky-search-button {
     width: 140px;
 }
 
